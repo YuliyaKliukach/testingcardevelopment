@@ -6,6 +6,8 @@ public class Main {
         audi.door="3";
         audi.model="A3";
         test cases for the color of the car
-                test cases for immediate requirment
+        test cases for immediate requirment
+        test cases to test the model of the testcasesforcarcolor
+
     }
 }
