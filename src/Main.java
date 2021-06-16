@@ -9,6 +9,11 @@ public class Main {
         test cases for immediate requirment
         test cases to test the model of the testcasesforcarcolor
 
+<<<<<<< Updated upstream
         Yuliya added some changes from her local repo
+=======
+                yury added some piece of code
+
+>>>>>>> Stashed changes
     }
 }
