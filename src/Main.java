@@ -5,6 +5,6 @@ public class Main {
         audi.number="00000";
         audi.door="3";
         audi.model="A3";
-        
+        test cases for the color of the car
     }
 }
